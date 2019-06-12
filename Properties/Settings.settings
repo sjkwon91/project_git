@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ELKOJlogTranEmpOrg.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\HRConnect\inbound\</Value>
+    </Setting>
+    <Setting Name="EmpFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TR_Intranet_Emp_</Value>
+    </Setting>
+    <Setting Name="DeptFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TR_Intranet_Org_</Value>
+    </Setting>
+    <Setting Name="FileExtensionName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.txt</Value>
+    </Setting>
+    <Setting Name="LogFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\HRConnect\Log\</Value>
+    </Setting>
+    <Setting Name="LogFileMark" Type="System.String" Scope="User">
+      <Value Profile="(Default)">_LogResult</Value>
+    </Setting>
+    <Setting Name="FileSplitMark" Type="System.Char" Scope="User">
+      <Value Profile="(Default)">|</Value>
+    </Setting>
+    <Setting Name="Success" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Success</Value>
+    </Setting>
+    <Setting Name="Fail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Fail : </Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
